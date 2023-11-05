@@ -3,9 +3,9 @@
 
 
 
-# All you have to do is:
-# Choose your option 
-# aaaaaaaaaand pray for luck :wink: :wink:
+ All you have to do is:
+ Choose your option 
+ aaaaaaaaaand pray for luck :wink: :wink:
 
 ### Demo Screeshots
 
