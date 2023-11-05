@@ -24,4 +24,44 @@ body {
   background: #fff;
 }
 
+.result_images {
+  display: flex;
+  column-gap: 7rem;
+}
 
+.container.start .user_result {
+  transform-origin: left;
+  animation: userShake 0.7s ease;
+}
+
+@keyframes userShake {
+  50% {
+    transform: rotate(10deg);
+  }
+}
+
+.container.start .cpu_result {
+  transform-origin: right;
+  animation: cpuShake 0.7s ease;
+}
+
+@keyframes cpuShake {
+  50% {
+    transform: rotate(-10deg);
+  }
+}
+
+.result_images img {
+  width: 100px;
+}
+
+.user_result img {
+  transform: rotate(180deg) rotateX(180deg);
+}
+
+.result {
+  text-align: center;
+  font-size: 2rem;
+  color: #202020;
+  margin-top: 1.5rem;
+}
