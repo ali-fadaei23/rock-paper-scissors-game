@@ -17,7 +17,9 @@ body {
   display: flex;
   align-items: center;
   justify-content: center;
-  background: #f6f7fb;
+  background: url(assets/img/Shiny\ Overlay.svg);
+  background-position: center;
+  background-size: cover;
 }
 
 ::selection {
@@ -26,7 +28,6 @@ body {
 }
 
 .container {
-  background: #fff;
   width: 100%;
   display: flex;
   flex-direction: column;
@@ -55,6 +56,7 @@ body {
   color: #202020;
   font-weight: bold;
   font-size: 3rem;
+  margin-left: 20px;
 }
 
 .result_images {
