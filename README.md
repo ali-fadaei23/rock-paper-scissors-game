@@ -12,7 +12,7 @@
 <br/>
 ### Demo Screeshot
 
-![Rock Paper Scissors Game](./public/assets/img/readme.png "Desktop Demo")
+![Rock Paper Scissors Game](./public/assets/img/readme.png "Sample Game")
 
 
 
