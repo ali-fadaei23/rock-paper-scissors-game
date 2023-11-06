@@ -1,11 +1,10 @@
 # rock-paper-scissors-game
 <br />
-<br />
 # This is a simple game of rock, paper, scissors.
-
-
-
- All you have to do is:
+<br />
+<br />
+ <strong>All you have to do is:</strong>
+ <br />
  Choose your option 
  aaaaaaaaaand pray for luck :wink: :wink:
 
