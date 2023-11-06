@@ -5,9 +5,9 @@
 <br />
  <strong>All You Have To Do Is:</strong>
  <br />
- <strong>#############</strong>  Choose Your Option 
+ <strong>#### Step 1 ####</strong>  Choose Your Option 
  <br/>
- <strong>#############</strong>  aaaaaaaaaand Pray For Luck :wink: :wink:
+ <strong>#### Step 2 ####</strong>  Pray For Luck :wink: :wink:
 <br/>
 <br/>
 ### Demo Screeshots
