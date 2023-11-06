@@ -10,7 +10,7 @@
  <strong>#### Step 2 ####</strong> &nbsp; &nbsp; Pray For Luck :wink: :wink:
 <br/>
 <br/>
-### Demo Screeshot
+<h1>Demo Screeshot</h1>
 
 ![Rock Paper Scissors Game](./public/assets/img/readme.png "Sample Game")
 
