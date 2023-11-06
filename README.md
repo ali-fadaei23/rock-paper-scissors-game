@@ -1,6 +1,6 @@
 # rock-paper-scissors-game
 <br />
-# This is a simple game of rock, paper, scissors.
+### This is a simple game of rock, paper, scissors.
 <br />
 <br />
  <strong>All you have to do is:</strong>
