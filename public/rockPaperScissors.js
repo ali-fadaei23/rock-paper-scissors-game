@@ -52,6 +52,6 @@ optionImages.forEach((image, index) => {
             console.log(cpuValue, userValue);
             result.textContent = userValue === cpuValue ? "Match Draw" : `${outComesValue} Won!`
 
-        }, 2500)
+        }, 1500)
     })
 })
